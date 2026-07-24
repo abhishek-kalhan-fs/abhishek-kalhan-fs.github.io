@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Abhishek Kalhan
-email: akalhan1@student.fullsail.edu / abhishek.kalhan@gmail.com
+email: akalhan1@student.fullsail.edu
 description: AI engineering, machine learning, and financial data.
   Capstone project on trust-weighted sentiment for stock prediction.
 github_username: abhishek-kalhan-fs
@@ -59,7 +59,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "M.S. Computer Science student at Full Sail University. Customer Success Engineer at Quartic.ai. Interested in AI engineering"
   links:
-     - label: "Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:akalhan1@student.fullsail.edu"
     - label: "Twitter"
