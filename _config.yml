@@ -13,14 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+title: Abhishek Kalhan
+email: akalhan1@student.fullsail.edu / abhishek.kalhan@gmail.com
+description: AI engineering, machine learning, and financial data.
+  Capstone project on trust-weighted sentiment for stock prediction.
+github_username: abhishek-kalhan-fs
 minimal_mistakes_skin: default
 search: true
 
@@ -58,22 +55,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Abhishek Kalhan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "M.S. Computer Science student at Full Sail University. Customer Success Engineer at Quartic.ai. Interested in AI engineering"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+     - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:akalhan1@student.fullsail.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/abhishek-kalhan-fs"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/abhishek-kalhan"
 
 footer:
   links:
