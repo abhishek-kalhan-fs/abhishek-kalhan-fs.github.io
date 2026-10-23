@@ -22,7 +22,7 @@ TrustLens asks one question: if you give more weight to StockTwits authors whose
 
 ## My video reflection
 
-{% include video id="https://drive.google.com/file/d/1us4Csew9D_T5wxNhqc1JEXuZ0tZpo4n6/view?usp=drive_link" provider="google-drive" %}
+{% include video id="1us4Csew9D_T5wxNhqc1JEXuZ0tZpo4n6" provider="google-drive" %}
 
 In the video I talk about what I learned in the program, how it changed the way I build and evaluate software, and where I am going next. The written version below goes course by course.
 
